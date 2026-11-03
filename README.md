@@ -98,4 +98,4 @@ All assets must be free and licensed for our use. Add anything new to the approv
 |---|---|---|
 | Wooden Door (door and door frame meshes) | kellett66, via Fab | CC BY 4.0 |
 
-CC BY 4.0 requires attribution: credit the creator, link to https://creativecommons.org/licenses/by/4.0/, and state if the asset was modified.
+
