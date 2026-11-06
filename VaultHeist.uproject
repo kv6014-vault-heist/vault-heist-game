@@ -1,10 +1,6 @@
 {
 	"FileVersion": 3,
-<<<<<<< HEAD
 	"EngineAssociation": "5.7",
-=======
-	"EngineAssociation": "5.7",
->>>>>>> owen
 	"Category": "",
 	"Description": "",
 	"Plugins": [
